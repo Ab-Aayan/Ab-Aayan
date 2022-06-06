@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/ab_aayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ab_aayan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abdul hanan ansari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul hanan ansari" height="30" width="40" /></a>
-<a href="https://fb.com/abdul aayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul aayan" height="30" width="40" /></a>
+<a href="https://m.facebook.com/people/Abdul-Aayan/100007121178255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdul aayan" height="30" width="40" /></a>
 <a href="https://instagram.com/07_forevers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="07_forevers" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMFvG_aMJ_s2qvkcMPqzxOQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bug hunter ziyan" height="30" width="40" /></a>
 </p>
