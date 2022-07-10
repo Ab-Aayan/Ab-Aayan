@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes)
 
-- 👨‍💻 All of my projects are available at [https://abdulhananansari.com.np/#about](https://abdulhananansari.com.np/#about)
+- 👨‍💻 All of my projects are available at [abdulhananansari.com.np](https://abdulhananansari.com.np/#about)
 
 - 💬 Ask me about **C, PHP, HTML, CSS, Flutter, MySQL**
 
