@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **aayankhhan01@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/15ljQgfJ1xVO5E4Nh8HtURkAM1LAhNM7C/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1Hab8kgN2cw-oI4f1WhPND-YQpPw8NCC7/view)
 
 
 - ⚡ Fun fact **I am always smile シ**
