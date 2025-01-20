@@ -5,9 +5,9 @@
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ab-aayan&label=Profile%20views&color=0e75b6&style=flat" alt="ab-aayan" /> </p>
 
-- 🔭 I’m currently working on [Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes)
+- 🔭 I’m currently working on [Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes) and [Etutor Class](https://etutorclass.com)
 
-- 🌱 I’m currently learning **Dart, NodeJs, WordPress**
+- 🌱 I’m currently learning **NodeJs, WordPress**
 
 - 🤝 I’m looking for help with [Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes)
 
