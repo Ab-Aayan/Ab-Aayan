@@ -48,8 +48,6 @@
 
 ### **Languages and Tools** 🛠️
 
-### **Languages and Tools** 🛠️
-
 <p align="left">
   <!-- Row 1 -->
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
