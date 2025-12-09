@@ -23,9 +23,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
 
 ✨ **Current Focus:**
-- 🔭 Working on **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)** & **[Etutor Class](https://play.google.com/store/apps/details?id=com.etutorclass&hl=en)**
+- 🔭 Working on **[Ctevt Hub](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)** & **[Etutor Class](https://play.google.com/store/apps/details?id=com.etutorclass&hl=en)**
 - 🌱 Learning **Node.js**, **WordPress**, and **Advanced Flutter**
-- 🤝 Looking for help with **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)**
+- 🤝 Looking for help with **[Ctevt Hub](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)**
 
 💼 **Professional Info:**
 - 👨‍💻 Portfolio: **[abdulhananansari.com.np](https://abdulhananansari.com.np)**
@@ -121,7 +121,7 @@
 
 | 🎯 **Project** | 📝 **Description** | 🛠️ **Tech Stack** | 🔗 **Links** |
 |:---|:---|:---|:---|
-| **📚 Ctevt Notes** | Mobile app for CTEVT students to access notes, syllabus, and resources with 10,000+ downloads | `Flutter` `Firebase` `Dart` | [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes) |
+| **📚 Ctevt Hub** | Mobile app for CTEVT students to access notes, syllabus, and resources with 10,000+ downloads | `Flutter` `Firebase` `Dart` | [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en) |
 | **🎓 Etutor Class** | Online learning platform connecting students and tutors with interactive features | `Flutter` `Node.js` `MySQL` | [<img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" />](https://play.google.com/store/apps/details?id=com.etutorclass&hl=en) |
 | **🌐 Portfolio Website** | Personal website showcasing projects, skills, and professional experience | `HTML5` `CSS3` `JavaScript` | [<img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />](https://abdulhananansari.com.np) |
 
