@@ -23,9 +23,9 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuff...***
 
 ✨ **Current Focus:**
-- 🔭 Working on **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes)** & **[Etutor Class](https://play.google.com/store/apps/details?id=com.etutorclass&hl=en)**
+- 🔭 Working on **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)** & **[Etutor Class](https://play.google.com/store/apps/details?id=com.etutorclass&hl=en)**
 - 🌱 Learning **Node.js**, **WordPress**, and **Advanced Flutter**
-- 🤝 Looking for help with **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.appionic.ctevtNotes)**
+- 🤝 Looking for help with **[Ctevt Notes](https://play.google.com/store/apps/details?id=com.ctevthub.nepal&hl=en)**
 
 💼 **Professional Info:**
 - 👨‍💻 Portfolio: **[abdulhananansari.com.np](https://abdulhananansari.com.np)**
